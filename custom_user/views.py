@@ -46,7 +46,7 @@ class SignUpView(View):
 class ActivateAccountView(View):
     """
     This view handles e-mail verification (account confirmation) process.
-    After verification is done user loges in the user automatically.
+    After verification is done user logs in the user automatically.
     """
     template_name = 'custom_user/e-mail_confirmation.html'
 
