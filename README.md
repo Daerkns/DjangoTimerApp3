@@ -1,7 +1,7 @@
-# Countdown App
-Hi, I`m a student learning backend web developement and this is my first python django portfolio-project.
+# FitAlert
+Hello, this is a forked project modified to suit our needs of building an application that reminds you to do healthy things. Modified by Souvik and Muhesena for Design Project 2.
 ## About
-This is a simple app that allows you to create countdowns to watch how your favorite events are coming. You can create a countdown for any time in future, specify description, text that will be visible when countdown finishes and share the link with friends. Also, authenticated users can bookmark countdowns and press buttons with emoji to show their reaction.
+This is a simple app that allows you to create countdowns. You can create a countdown for any time in future, specify description, text that will be visible when countdown finishes. A login system is included for Django practice, even though it is optional. Note that the email that is sent to you to confirm mail or change password is sent to the VScode terminal.
 ## Work example
 ![](https://i.imgur.com/HFOdCLY.gif)
 
