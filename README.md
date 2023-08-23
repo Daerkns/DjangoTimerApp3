@@ -2,8 +2,7 @@
 Hello, this is a forked project modified to suit our needs of building an application that reminds you to do healthy things. Modified by Souvik and Muhesena for Design Project 2.
 ## About
 This is a simple app that allows you to create countdowns. You can create a countdown for any time in future, specify description, text that will be visible when countdown finishes. A login system is included for Django practice, even though it is optional. Note that the email that is sent to you to confirm mail or change password is sent to the VScode terminal.
-## Work example
-![](https://i.imgur.com/HFOdCLY.gif)
+
 
 ## Try it out
 Clone the repository:
