@@ -7,7 +7,7 @@ This is a simple app that allows you to create countdowns. You can create a coun
 ## Try it out
 Clone the repository:
 ```bash
-git clone https://github.com/kokokojo2/CountDown
+git clone https://github.com/Daerkns/FitAlert-Healthy-Reminder
 cd CountDown
 ```
 Make and activate virtual environment:
